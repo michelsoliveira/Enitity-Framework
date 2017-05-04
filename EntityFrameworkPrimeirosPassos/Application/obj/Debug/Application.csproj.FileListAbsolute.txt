@@ -1,1 +1,14 @@
 C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Application.exe.config
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Application.exe
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Application.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Data.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Domain.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\EntityFramework.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Data.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\Domain.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\EntityFramework.xml
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\obj\Debug\Application.exe
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Application\obj\Debug\Application.pdb

@@ -1,0 +1,5 @@
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.pdb

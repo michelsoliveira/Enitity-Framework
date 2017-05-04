@@ -17,10 +17,17 @@ namespace Domain
         [MaxLength(200)]//Limita o tamanho máximo
         [Required]//Define o atributo como NotNull(não vazio)
         public string Nome { get; set; }
+
         [MaxLength(2000)]//Limita o tamanho máximo
         public string Descricao { get; set; }
+
         [Range(-999999999999.99, 999999999999.99)]//Define o tamanho minimo e maximo do valor
         [Required]
         public decimal Valor { get; set; }
+
+        [ForeignKey("Loja")]//data annotation para chave estrangeira
+        public int LojaID { get; set; }//propriedade LojaID que será usada como chave estrangeira
+
+        public virtual Loja Loja { get; set; }//propriedade virtual loja
     }
 }

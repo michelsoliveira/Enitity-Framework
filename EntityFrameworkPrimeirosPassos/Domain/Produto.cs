@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
+    [Tab]
     public class Produto
     {
         public int Id { get; set; }

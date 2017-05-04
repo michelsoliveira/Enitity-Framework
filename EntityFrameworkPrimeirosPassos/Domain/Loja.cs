@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    [Table("Produto")]
+    [Table("Loja")]
     public class Loja
     {
         public int Id { get; set; }

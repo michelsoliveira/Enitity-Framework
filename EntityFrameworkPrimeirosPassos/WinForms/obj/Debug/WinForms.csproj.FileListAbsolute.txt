@@ -1,0 +1,17 @@
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\WinForms.exe
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\WinForms.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\Data.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\Domain.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\EntityFramework.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\Data.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\Domain.pdb
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\EntityFramework.xml
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.exe
+C:\Users\michel.oliveira\Documents\GitHub\Enitity-Framework\EntityFrameworkPrimeirosPassos\WinForms\obj\Debug\WinForms.pdb

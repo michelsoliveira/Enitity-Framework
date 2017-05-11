@@ -58,5 +58,11 @@ namespace WinForms
 
             context.SaveChanges();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Produto produto = context.Produtos.Find(1);
+  
+        }
     }
 }
